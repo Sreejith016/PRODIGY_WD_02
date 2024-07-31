@@ -1,6 +1,4 @@
-Here's a sample README file for your stopwatch project:
 
-```markdown
 # Stopwatch Project
 
 This project is a responsive stopwatch application implemented using HTML, CSS, and JavaScript. The stopwatch can start, stop, reset, record lap times, and reset laps. The design is inspired by the Samsung smartwatch interface and is fully responsive.
